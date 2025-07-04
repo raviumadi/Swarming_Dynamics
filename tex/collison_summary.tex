@@ -1,0 +1,45 @@
+\renewcommand{\arraystretch}{1.0}
+\setlength{\tabcolsep}{6pt}
+\captionsetup[table]{skip=4pt}
+\begin{table}[thbp]
+\centering
+\scriptsize
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{8pt}
+\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}X >{\centering\arraybackslash}X c c >{\centering\arraybackslash}X c}
+\toprule
+$k_r$ & $v_0$ & Collisions & Total Events & Collision Rate (\%) & Per 100,000 Events \\
+\midrule
+3 & 3 & 0 & 0 & 0 & --- \\
+3 & 4 & 0 & 0 & 0 & --- \\
+3 & 5 & 2 & 127143 & 0.0016 & 2 \\
+3 & 6 & 0 & 0 & 0 & --- \\
+3 & 7 & 3 & 96197 & 0.0031 & 3 \\
+4 & 3 & 1 & 96197 & 0.0010 & 1 \\
+4 & 4 & 0 & 0 & 0 & --- \\
+4 & 5 & 0 & 0 & 0 & --- \\
+4 & 6 & 6 & 111233 & 0.0054 & 5 \\
+4 & 7 & 5 & 96197 & 0.0052 & 5 \\
+5 & 3 & 10 & 275915 & 0.0036 & 4 \\
+5 & 4 & 6 & 202653 & 0.0030 & 3 \\
+5 & 5 & 5 & 104438 & 0.0048 & 5 \\
+5 & 6 & 4 & 105151 & 0.0038 & 4 \\
+5 & 7 & 10 & 159796 & 0.0063 & 6 \\
+6 & 3 & 3 & 224770 & 0.0013 & 1 \\
+6 & 4 & 6 & 137988 & 0.0043 & 4 \\
+6 & 5 & 4 & 134747 & 0.0030 & 3 \\
+6 & 6 & 3 & 86123 & 0.0035 & 3 \\
+6 & 7 & 3 & 127143 & 0.0024 & 2 \\
+7 & 3 & 6 & 131425 & 0.0046 & 5 \\
+7 & 4 & 8 & 219474 & 0.0036 & 4 \\
+7 & 5 & 3 & 219474 & 0.0014 & 1 \\
+7 & 6 & 6 & 79718 & 0.0075 & 8 \\
+7 & 7 & 3 & 83499 & 0.0036 & 4 \\
+\bottomrule
+\end{tabularx}
+
+\caption{%
+	Summary of collision events across simulation runs for different combinations of responsivity coefficient $k_r$ and initial velocity $v_0$. The table reports the absolute number of collisions, total simulated events, collision rate as a percentage, and normalised rate per 100,000 events. Collision rates remain low overall, but increase slightly with higher $k_r$ and $v_0$ values, suggesting that slower responsivity (higher $k_r$) or higher velocities may modestly elevate collision risk within the swarm.
+}
+\label{tab:collision_summary}
+\end{table}
