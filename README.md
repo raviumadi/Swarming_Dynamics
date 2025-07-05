@@ -5,7 +5,7 @@ This repository contains all simulation code and analysis tools used in the stud
 
 Available at: [will be updated upon (pre)publication]
 
->Some of the material (`run` and `supplementary material`) are available only on the Zenodo Archive: DOI [10.5281/zenodo.15807102](10.5281/zenodo.15807102)
+>Some of the material (`run` and `supplementary material`) are available only on the Figshare Archive: DOI [10.6084/m9.figshare.29482268](10.6084/m9.figshare.29482268)
 
 ## Overview
 
@@ -66,8 +66,8 @@ The model demonstrates how closed-loop sensory–motor control using echo delays
 
 ## Other Material
 
-- A supplementary swarm propagation visualisation animation is included in the Zenodo repo.
-- Simulation outputs in `run` are available in the Zenodo repo. (Due to size limitation in GitHub)
+- A supplementary swarm propagation visualisation animation is included in the [figshare](10.6084/m9.figshare.29482268) repo.
+- Simulation outputs in `run` are available in the [figshare](10.6084/m9.figshare.29482268) repo. (Due to size limitation in GitHub)
 - `tex` folder contains LaTeX table outputs used in the preprint.
 
 ## License
