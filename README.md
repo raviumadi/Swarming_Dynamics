@@ -1,7 +1,7 @@
-# Echolocation Swarm Simulation
+# Echolocating Bat Swarm Simulation
 
 This repository contains all simulation code and analysis tools used in the study:  
-**"Swarming Dynamics Emerge from Stable Temporal Loops in Echolocating Bats"**
+**"Swarm Cohesion in Bats Emerges from Stable Temporal Loops"**
 
 Available at: [will be updated upon (pre)publication]
 
