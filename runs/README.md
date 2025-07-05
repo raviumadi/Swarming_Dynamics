@@ -1,1 +1,1 @@
-See [Figshare](10.6084/m9.figshare.29482268) repo for the simulation outputs
+See [Figshare](https://doi.org/10.6084/m9.figshare.29482268.v1) repo for the simulation outputs

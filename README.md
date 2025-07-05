@@ -5,7 +5,7 @@ This repository contains all simulation code and analysis tools used in the stud
 
 Available at: [will be updated upon (pre)publication]
 
->Some of the material (`run` and `supplementary material`) are available only on the Figshare Archive: DOI [10.6084/m9.figshare.29482268](10.6084/m9.figshare.29482268) 
+>Some of the material (`run` and `supplementary material`) are available only on the Figshare Archive: DOI [https://doi.org/10.6084/m9.figshare.29482268.v1](https://doi.org/10.6084/m9.figshare.29482268.v1) 
 
 ## Overview
 

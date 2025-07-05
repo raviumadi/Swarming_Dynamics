@@ -1,3 +1,1 @@
-See Zenodo repo for the material
-
-DOI **10.5281/zenodo.15807102**
+See [Figshare repo](https://doi.org/10.6084/m9.figshare.29482268.v1) for the material
