@@ -1,1 +1,1 @@
-See Zenodo repo for the simulation outputs
+See [Figshare](10.6084/m9.figshare.29482268) repo for the simulation outputs
