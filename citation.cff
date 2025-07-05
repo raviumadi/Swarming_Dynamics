@@ -9,6 +9,6 @@ date-released: 2025-07-05
 doi: 10.6084/m9.figshare.29482268.v1
 version: "1.0"
 license: CC BY-NC 4.0
-type: Research Tool
-repository-code:https://github.com/raviumadi/Swarming_Dynamics
+type: software
+repository-code: https://github.com/raviumadi/Swarming_Dynamics
 url: https://doi.org/10.6084/m9.figshare.29482268.v1
