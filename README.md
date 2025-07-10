@@ -74,3 +74,10 @@ The model demonstrates how closed-loop sensory–motor control using echo delays
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
+## Other Publications
+
+Check my [ResearchGate](https://www.researchgate.net/profile/Ravi-Umadi-3) or [ORCID](https://orcid.org/0000-0003-3867-1769) for a full list of my research work. 
+
+## Contact
+
+Drop by my personal website [biosonix.io](https://biosonix.io) and drop a message if you would like to collaborate or need assistance with the code and development. 
